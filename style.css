@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+}
+.big{
+    color: blue;
+}
+#b325,.b326 {
+    border: green solid 1px;
+}
+.asteroid {
+    font-weight: bold;
+}
+p {
+    background-color: yellow;
+}
